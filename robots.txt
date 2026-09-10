@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adawymohamed383.github.io/Moballit-riyadh/sitemap.xml
